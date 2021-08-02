@@ -1,6 +1,6 @@
 module.exports = {
 
-    mongoLink:'mongodb+srv://zishu:vishuvanar68@ltc.ufen0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',//database link
+    mongoLink:'mongodb+srv://vishu:vishuvanar68@cluster0.knrcx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',//database link
     
     bot_token:'1932443873:AAELcS91p3APIZKlNd2MHrf8gizoHwvcb-U',//bot token
     
