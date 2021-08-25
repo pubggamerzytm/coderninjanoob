@@ -2,13 +2,13 @@ module.exports = {
 
     mongoLink:'mongodb+srv://vishu:vishuvanar68@cluster0.knrcx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',//database link
     
-    bot_token:'1932443873:AAELcS91p3APIZKlNd2MHrf8gizoHwvcb-U',//bot token
+    bot_token:'1909567677:AAF71HmnNWv6QXEQYvaS49eKEjVsKyUhPj4',//bot token
     
-    bot_name:'LTCBoom_bot',//bot username without @
+    bot_name:'NodejsCoinbaseinvbot',//bot username without @
     
-    bot_admin:1891485685,// admin telegram id
+    bot_admin:1237858645,// admin telegram id
     
-    channelsList : ['@cyptoftw69' , '@FTWPayouts'],// channels list
+    channelsList : ['@lwgitbotpayouts' , '@legitbotpayouts'],// channels list
   
     
     reffer_bonus:1000,// refferal bonus amount
@@ -25,6 +25,6 @@ module.exports = {
     
     cb_account_id:'a0a96c12-1fc7-53f8-bbb6-99b6fbd48a59',// counbase account id for the bot currency
     
-    payment_channel:'@FTWPayouts'// payment channel username
+    payment_channel:'@legitbotPayouts'// payment channel username
     
     }
